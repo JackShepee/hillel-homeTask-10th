@@ -7,6 +7,6 @@ const generateKey = function (length, characters) {
   return key;
 };
 
-const characters = "abcdefghijklmnopqrstuvwxyz0123456789";
+const characters = "vifaswkdlsak;dlk10239210dksalm";
 const key = generateKey(16, characters);
 console.log(key);
